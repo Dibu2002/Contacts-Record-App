@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.display-6{
+  padding: 10px;
+  text-align: center;
+  color: blue;
+  font-size: 40px;
+  letter-spacing: 3px;
+  text-shadow: -1px -1px 0px blue,
+    1px 1px 2px blue,
+    2px 2px 1px rgb(105, 105, 214);
+  }
+  
+  .addcontact{
+  padding: 10px;
+  text-align: center;
+  color: rgba(31, 19, 19, 0.795);
+  font-size: 30px;
+  letter-spacing: 1px;
+  text-shadow: -1px -1px 0px black,
+    1px 1px 2px rgb(26, 24, 24);
+}
+
+.card-body{
+  display: flex;
+  flex-direction: row;
+}
+.cardbod{
+  display: flex;
+  flex-direction: column;
+  padding-left: 10px;
+
+}
+
+.btn-warning{
+  float: right;
+}
