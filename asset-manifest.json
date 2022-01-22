@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Contacts-Record-App/static/css/main.01cb0f7d.css",
+    "main.js": "/Contacts-Record-App/static/js/main.225ddc69.js",
+    "index.html": "/Contacts-Record-App/index.html",
+    "main.01cb0f7d.css.map": "/Contacts-Record-App/static/css/main.01cb0f7d.css.map",
+    "main.225ddc69.js.map": "/Contacts-Record-App/static/js/main.225ddc69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01cb0f7d.css",
+    "static/js/main.225ddc69.js"
+  ]
+}
